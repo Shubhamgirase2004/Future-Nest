@@ -1,4 +1,4 @@
-![FutureNest Banner](A_digital_graphic_design_banner_showcases_"FutureN.png")
+
 
 # 🏠 FutureNest: Pune House Price Predictor  
 
@@ -77,6 +77,6 @@ This project is licensed under the MIT License.
 
 👨💻 Author
 Shubham Girase
-💬 Contact: [Add your email or LinkedIn here]
+💬 Contact: shubhamgirase2004@gmail.com
 
 Made with ❤️ by FutureNest - Pune House Price Predictor
